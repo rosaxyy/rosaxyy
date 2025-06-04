@@ -13,8 +13,3 @@
 </div>
  
 <br>
- 
-### Caso queira trocar um papo, siga no Instagram!
- 
-<div> 
- <a href="[https://instagram.com/devemdobro](https://www.instagram.com/__rosaxy?igsh=MW5penhsMmczNjhqOQ== )" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
